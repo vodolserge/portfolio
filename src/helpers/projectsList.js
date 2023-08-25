@@ -1,11 +1,11 @@
-import project01 from "./../img/projects/cdl_small.png";
-import project01Big from "./../img/projects/cdl_big.png";
+import project01 from "./../img/icons/cdl_small.png";
+import project01Big from "./../img/icons//cdl_big.png";
 
-import project02 from "./../img/projects/movies_big.png";
-import project02Big from "./../img/projects/movies_small.png";
+import project02 from "./../img/icons/movies_big.png";
+import project02Big from "./../img/icons/movies_small.png";
 
-import project03 from "./../img/projects/shop_big.png";
-import project03Big from "./../img/projects/shop_small.png";
+import project03 from "./../img/icons/shop_big.png";
+import project03Big from "./../img/icons/shop_small.png";
 
 const projects = [
 	{
