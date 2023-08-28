@@ -1,5 +1,42 @@
 export const projects = [
   {
+    title: "Digital Blog",
+    desc: "A blog based on the Laravel Framework with an Admin Panel and CKEditor, " +
+        "implementing basic CRUD operations and Search functionality.",
+    descOptions: [
+      'For access to the admin panel: ',
+      'Go to `/login` route and login as Admin with credentials:',
+      '✅ Login: admin@admin.net',
+      'Password: 12345',
+      '🚫 For Logout -> Go to - `/logout`'
+    ],
+    tags: [
+      {
+        name: "Laravel v7.21.0",
+        color: "red-600",
+      },
+      {
+        name: "JavaScript",
+        color: "green-600",
+      },
+      {
+        name: "SQL",
+        color: "green-600",
+      },
+      {
+        name: "CKEditor",
+        color: "green-600",
+      },
+      {
+        name: "CKFinder",
+        color: "green-600",
+      },
+    ],
+    img: "laravel-blog.png",
+    link: "https://blog.vodolaz.site/",
+    code: "https://github.com/vodolserge/lara-blog/tree/release_23.3",
+  },
+  {
     title: "Shop tiny app",
     desc: "A small application - Shopping Cart Store. A brief exploration of the React library.",
     tags: [
@@ -39,7 +76,7 @@ export const projects = [
     ],
     img: "movies_react.png",
     link: "https://vodolserge.github.io/react-tiny-app-movies/",
-    code: "https://github.com/vodolserge/react-tiny-app-movies",
+    code: "https://github.com/vodolserge/react-tiny-app-movies/tree/release_23.3",
   },
   {
     title: "Quiz: CDL Prep - General Knowledge",
@@ -58,6 +95,6 @@ export const projects = [
     ],
     img: "cdl_react.png",
     link: "https://vodolserge.github.io/cdl-test/",
-    code: "https://github.com/vodolserge/cdl-test",
+    code: "https://github.com/vodolserge/cdl-test/tree/release_23.3",
   }
 ];

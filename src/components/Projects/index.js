@@ -26,6 +26,7 @@ export default function Projects() {
               <Work
                 title={project.title}
                 desc={project.desc}
+                descOpt={project.descOptions ?? ''}
                 img={project.img}
                 link={project.link}
                 code={project.code}
