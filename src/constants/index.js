@@ -6,7 +6,7 @@ export const projects = [
     tags: [
       {
         name: "Laravel v8.83",
-        color: "#60a5fa",
+        color: "amber-600",
       },
       {
         name: "JavaScript",
@@ -35,7 +35,7 @@ export const projects = [
     tags: [
       {
         name: "Laravel v7.21.0",
-        color: "#60a5fa",
+        color: "amber-600",
       },
       {
         name: "JavaScript",
@@ -64,7 +64,7 @@ export const projects = [
     tags: [
       {
         name: "React JS",
-        color: "red-600",
+        color: "amber-600",
       },
       {
         name: "JavaScript",
@@ -85,7 +85,7 @@ export const projects = [
     tags: [
       {
         name: "React JS",
-        color: "red-600",
+        color: "amber-600",
       },
       {
         name: "JavaScript",
@@ -108,7 +108,7 @@ export const projects = [
     tags: [
       {
         name: "React JS",
-        color: "red-600",
+        color: "amber-600",
       },
       {
         name: "JavaScript",
