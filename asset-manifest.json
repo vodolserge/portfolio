@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.b22186ea.css",
-    "main.js": "./static/js/main.68866bb5.js",
+    "main.js": "./static/js/main.a64f61ae.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
     "static/media/movies_react.png": "./static/media/movies_react.595afc1ae72f87359364.png",
     "static/media/CV photo.jpg": "./static/media/CV photo.9fc384f9d32b5fb760a1.jpg",
@@ -9,6 +9,7 @@
     "static/media/shop_react.png": "./static/media/shop_react.e614a0b08bf2edb504cf.png",
     "static/media/Recomendation letter.pdf": "./static/media/Recomendation letter.d74da818bd0d98280911.pdf",
     "static/media/cdl_react.png": "./static/media/cdl_react.65be22a3790a21491d46.png",
+    "static/media/todo_app.png": "./static/media/todo_app.93934ec510680685dd21.png",
     "static/media/RobotoSlab-Black.ttf": "./static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
     "static/media/RobotoSlab-Bold.ttf": "./static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
     "static/media/RobotoSlab-Regular.ttf": "./static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
@@ -20,11 +21,11 @@
     "static/media/github.webp": "./static/media/github.ed1c06d925fff0b57e32.webp",
     "index.html": "./index.html",
     "main.b22186ea.css.map": "./static/css/main.b22186ea.css.map",
-    "main.68866bb5.js.map": "./static/js/main.68866bb5.js.map",
+    "main.a64f61ae.js.map": "./static/js/main.a64f61ae.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b22186ea.css",
-    "static/js/main.68866bb5.js"
+    "static/js/main.a64f61ae.js"
   ]
 }
