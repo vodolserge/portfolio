@@ -41,8 +41,8 @@ export default function About() {
             className="text-justify leading-7 text-slate-900"
             data-aos={"fade-right"}
           >
-            I am currently looking for job opportunities and it would be really great to have the opportunity
-            to work in the American market and gain invaluable experience.
+            I am currently looking for job opportunities and it would be great to work in a field
+            I love again with the opportunity to grow and develop.
           </p>
         </div>
 
