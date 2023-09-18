@@ -1,3 +1,4 @@
+import EmailIcon from "@mui/icons-material/Email";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import TelegramIcon from "@mui/icons-material/Telegram";
@@ -18,6 +19,10 @@ export default function Contact() {
         Contacts:
         <div className="text-white flex flex-row gap-2 w-fit mx-auto pt-4 contacts-phone">
           <a href="tel:+19177763757"><PhoneIphoneIcon fontSize="medium"/> +1917 776 37 57</a>
+        </div>
+
+        <div className="text-white flex flex-row gap-2 w-fit mx-auto pt-4 contacts-phone">
+          <a href="mailto: vodol.serg@gmail.com"><EmailIcon fontSize="medium"/> vodol.serg@gmail.com</a>
         </div>
       </div>
       <div className="flex flex-row  ">
