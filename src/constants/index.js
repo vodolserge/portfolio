@@ -19,7 +19,7 @@ export const projects = [
     ],
     img: "todo_app.png",
     link: "https://todo.vodolaz.site/",
-    code: "https://github.com/vodolserge/todo-app",
+    code: "https://github.com/vodolserge/todo-laravel/tree/master",
   },
   {
     title: "Digital Blog",
